@@ -1,5 +1,5 @@
-Single page React App
+Single page React Restaurant App
 
 Designed from Figma.
 
-Netlify: 
+Netlify: https://gerich-restaurant-milos.netlify.app
